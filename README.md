@@ -1,6 +1,6 @@
 # About this project:
 This project aims to predict NZX listed stock gains by collecting and processing financial and macroeconomic data, then training a machine learning model to forecast returns. 
-This project is currently in development and unfinished.
+It is a sucesful 'proof of concept' project, acheiving strong results both theoretically and in practice.
 
 # Installation:
 TODO
